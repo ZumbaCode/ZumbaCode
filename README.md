@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @ZumbaCode
 - 👀 I’m interested in ...
 - Web Developemnt
-- Pyhton
+- Python
 - JavaScript
 - C#
 - Video Games
